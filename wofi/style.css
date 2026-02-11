@@ -1,0 +1,25 @@
+/* ===== POWER MENU SMALL ===== */
+
+window {
+    background-color: rgba(20, 20, 20, 0.7);
+    border-radius: 10px;
+    border: 1px solid #444444;
+}
+
+#input {
+    display: none;
+}
+
+#outer-box {
+    margin: 15px;
+}
+
+#entry {
+    padding: 8px 12px;
+    font-size: 14px;
+}
+
+#entry:selected {
+    background-color: rgba(255, 255, 255, 0.08);
+    color: #ffffff;
+}

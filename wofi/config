@@ -1,0 +1,6 @@
+show=drun
+allow_images=true
+image_size=24
+prompt=Apps
+width=600
+height=400
