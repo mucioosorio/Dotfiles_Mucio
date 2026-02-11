@@ -1,0 +1,9 @@
+betterlockscreen
+brave-bin
+i3lock-color
+onlyoffice-bin
+openssl-1.1
+rstudio-desktop-bin
+udunits
+units
+weka
