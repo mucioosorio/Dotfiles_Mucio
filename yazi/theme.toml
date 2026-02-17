@@ -1,0 +1,37 @@
+[manager]
+cwd = { fg = "#7aa2f7", bold = true }
+
+hovered = { bg = "#33467C" }
+preview_hovered = { bg = "#33467C" }
+
+find_keyword = { fg = "#e0af68", bold = true }
+find_position = { fg = "#bb9af7", bold = true }
+
+marker_selected = { fg = "#9ece6a", bold = true }
+marker_copied   = { fg = "#7dcfff", bold = true }
+marker_cut      = { fg = "#f7768e", bold = true }
+
+tab_active   = { fg = "#1a1b26", bg = "#7aa2f7", bold = true }
+tab_inactive = { fg = "#a9b1d6", bg = "#1f2335" }
+
+border_symbol = "│"
+border_style  = { fg = "#3b4261" }
+
+[status]
+separator_open  = ""
+separator_close = ""
+
+mode_normal = { fg = "#1a1b26", bg = "#7aa2f7", bold = true }
+mode_select = { fg = "#1a1b26", bg = "#9ece6a", bold = true }
+mode_unset  = { fg = "#1a1b26", bg = "#f7768e", bold = true }
+
+progress_label  = { fg = "#a9b1d6" }
+progress_normal = { fg = "#7aa2f7", bg = "#3b4261" }
+
+[pick]
+border   = { fg = "#7aa2f7" }
+active   = { fg = "#bb9af7", bold = true }
+inactive = { fg = "#565f89" }
+
+[input]
+border = { fg = "#7aa2f7" }
