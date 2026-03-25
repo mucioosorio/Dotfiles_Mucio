@@ -34,12 +34,11 @@
 },
 
 
-    "clock": {
-        "format": "{:%H:%M}",
-        "on-click": "~/.config/waybar/scripts/calendar.sh"
-
-    },
-    
+"clock": {
+    "format": "{:%H:%M  %a %d %b}",
+    "on-click": "~/.config/waybar/scripts/calendar.sh"
+} ,
+   
     "bluetooth": {
     "format": " {status}",
     "format-disabled": " off",
